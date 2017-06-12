@@ -1,0 +1,60 @@
+.row-bottom-padded-md {
+    padding-bottom: 2em;
+}
+.fh5co-section-gray {
+    background: rgb(248, 248, 248);
+}
+.fh5co-testimonial, .fh5co-team {
+    position: relative;
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+#main-logo {
+    margin-left: -150px;
+}
+.service {
+    min-height:288px;
+}
+@media (max-width: 767px) {
+    #main-logo {
+        margin-left: 0px;
+        font-size: 26px;
+    }
+}
+#footer p {
+    color: white;
+    font-size: 16px!important;
+}
+.shareBottom{
+    margin-bottom:24px;
+}
+#line::after {
+    display: none;
+}
+/*@media screen and (min-width: 319px){
+    .fh5co-cover, .fh5co-hero {
+        height: 476px;
+    }
+}
+@media screen and (min-width: 359px){
+    .fh5co-cover, .fh5co-hero {
+        height: 543px;
+    }
+}
+@media screen and (min-width: 374px){
+    .fh5co-cover, .fh5co-hero {
+        height: 572px;
+    }
+}
+@media screen and (min-width: 411px){
+    .fh5co-cover ,.fh5co-hero {
+        height: 635px;
+    }
+}
+@media screen and (min-width: 413px){
+    .fh5co-cover ,.fh5co-hero {
+        height: 645px;
+    }
+}*/
