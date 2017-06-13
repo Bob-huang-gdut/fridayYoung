@@ -33,7 +33,7 @@
 #line::after {
     display: none;
 }
-/*@media screen and (min-width: 319px){
+@media screen and (min-width: 319px){
     .fh5co-cover, .fh5co-hero {
         height: 476px;
     }
@@ -57,4 +57,33 @@
     .fh5co-cover ,.fh5co-hero {
         height: 645px;
     }
-}*/
+}
+@media screen and (min-width: 768px){
+    .fh5co-cover ,.fh5co-hero {
+        height: 800px;
+    }
+}
+.fh5co-logo {
+    position: relative;
+    z-index: 2;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    font-weight: 700;
+    float: left;
+}
+@media screen and (max-width: 768px){
+    .fh5co-logo {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+}
+.fh5co-header-section {
+    padding: 0;
+    position: relative;
+    left: 0;
+    width: 100%;
+    z-index: 1022;
+    background: #fff;
+}
