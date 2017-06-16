@@ -87,3 +87,29 @@
     z-index: 1022;
     background: #fff;
 }
+.bshare-custom .bshare-more {
+    padding-left: 0 !important;
+    color: #9bcf7f !important;
+    display: inline-block;
+}
+.bshare-custom.icon-medium-plus .bshare-weixin {
+    background: url(../images/weixin.png) no-repeat!important;
+    display: inline-block;
+}
+.bsTop{
+    width:208px!important;
+}
+.bsFrameDiv>div{
+    height: 209px!important;
+    width: 220px!important;
+}
+.bsFrameDiv img{
+    width: 168px!important;
+    height: 169px!important;
+}
+.shareBottom{
+    margin-bottom:24px;
+}
+#line::after {
+    display: none;
+}
