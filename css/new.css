@@ -113,3 +113,6 @@
 #line::after {
     display: none;
 }
+.heading-section .text{
+    color: #5a5a5a
+}
