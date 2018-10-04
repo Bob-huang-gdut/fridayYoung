@@ -1,1 +1,1 @@
-# bootstrap-jquery-demo
+# 响应式站点（bootstrap+jquery）
